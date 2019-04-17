@@ -27,7 +27,7 @@ code:
 
 ### Variational Inference
 
-pdf: \HMC_BNN.pdf
+pdf: VI_BNN.pdf
 
 code: 
 
