@@ -19,6 +19,8 @@ code:
 
 ### Markov Chain Hamiltonian Monte Carlo
 
+[fixing some stuff]
+
 pdf: HMC\_BNN.pdf
 
 code: 
